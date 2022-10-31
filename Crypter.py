@@ -1,6 +1,3 @@
-from curses import raw
-
-
 def change_files(filename, cryptoFn, block_size=16)
 
     with open(filename, 'r+b') as _file:
