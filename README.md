@@ -26,5 +26,5 @@ pipenv install
 
 Executar terminal e siga as instruções:
 '''
-python 
+python main.py
 '''
