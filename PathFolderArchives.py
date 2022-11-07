@@ -1,8 +1,6 @@
 #!/usr/bin/python
 
-import extension
-
-import os
+import extension, os
 
 
 INITIAL_PATH = os.path.abspath(os.path.join(os.getcwd(), 'Archives'))
